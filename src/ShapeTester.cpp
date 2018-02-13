@@ -3,9 +3,6 @@
 #include <string>
 #include<math.h>
 #include <stdio.h>
-// #include "Box.h"
-// #include "Pyramid.h"
-// #include "Sphere.h"
 using namespace std;
 double length;
 double width;
